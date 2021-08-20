@@ -1,5 +1,5 @@
-#include<stdlib.h>
-int main()
+#include <stdlib.h>
+int main ()
 {
    system("C:\\Windows\\System32\\ipconfig");
 
